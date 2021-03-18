@@ -9,7 +9,7 @@ from u2net import U2NET
 # weights can be downoloaded here
 # https://github.com/xuebinqin/U-2-Net 
 model_file = "weights/u2net.pth"
-filename = "img/test.jpg"
+filename = "img/test_02.jpg"
 outfile = "img/test.u2net.png"
 input_size = 320
 
